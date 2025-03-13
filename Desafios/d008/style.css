@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pag01{
+    background-color: rgb(230, 230, 230);
+}
+
+.pag02{
+    background-color: lightgreen;
+    color: green;
+}
+
+.pag03{
+    background-color: lightyellow;
+    color: rgb(196, 127, 0);
+}

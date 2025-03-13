@@ -1,0 +1,40 @@
+body{
+    background-color: #e0e0ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #070733;
+}
+
+h1#principal{
+    text-align: center;
+    color: white;
+    background-color: #2D1F8E;
+}
+
+.titleCss{
+    text-align: center;
+    color: white;
+    background-color: #2D1F8E;
+}
+
+h2{
+    color: #101034;
+}
+
+.basico{
+    color: #1E6100;
+}
+
+.intermed{
+    color: #5E3E2D;
+}
+
+.avancado{
+    color: #DB530F;
+}
+
+.destaque{
+    background-color: rgba(109, 51, 109, 0.384);
+}
